@@ -1,0 +1,2 @@
+Prefix plugins/PreprocessMetabolomics/example/
+Plugin PreprocessMetabolomics inputfile parameters.txt outputfile metabolon
